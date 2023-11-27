@@ -1,1 +1,1 @@
-# Marvel-Game
+Marvel: Ultimate War is a 2-player combat game where each participant selects a team of 3 champions to engage in battle against the other player. The confrontations occur on a 5x5 grid, where champions utilize normal attacks or special abilities to defeat their opponents. The objective is to strategically eliminate all of the opponent's champions. The battle unfolds in turns, with players alternating actions until one emerges victorious by defeating the entirety of the opposing team. Employing Object-Oriented Programming (OOP)
